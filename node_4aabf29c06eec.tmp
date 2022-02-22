@@ -1,0 +1,26 @@
+//indices         0           1           2
+var jogos = ["minecraft","roblox","fortinite"];
+console.log(jogos)
+
+//para inserir novos elementos no final do array
+
+
+//para remover o ultimo elemento usamos pop
+
+
+//removendo elementos específicos
+
+
+
+function setup() {
+  createCanvas(400, 400);
+
+}
+
+function draw() {
+  background("#1fcc92");
+
+
+  drawSprites();
+}
+
